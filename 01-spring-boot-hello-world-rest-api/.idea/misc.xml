@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../02-spring-boot-todo-rest-api-h2/pom.xml" />
+        <option value="$PROJECT_DIR$/../03-spring-boot-web-application-h2/pom.xml" />
+        <option value="$PROJECT_DIR$/../04-spring-boot-web-application-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/../05-spring-boot-react-full-stack-h2/restful-web-services/pom.xml" />
+        <option value="$PROJECT_DIR$/../07-todo-rest-api-mysql-containerized/pom.xml" />
+        <option value="$PROJECT_DIR$/../06-todo-rest-api-h2-containerized/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
